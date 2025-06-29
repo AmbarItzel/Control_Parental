@@ -1,8 +1,8 @@
-# Control_Parental
-Control parental desde una api
+## Control_Parental
+### Control parental desde una api
 
 
-### Acciones que realiza la api
+### Acciones que realiza la Api:
 #### Bloqueo de sitios web
 #### Bloqueo de sitios por horario 
 #### Lista negra de sitios
