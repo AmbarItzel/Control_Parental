@@ -8,6 +8,8 @@
 ###### git add 
 #### Hacer un commit 
 ###### git commit -m "Mensaje descriptivo del cambio"
+#### Subir al repositorio remoto
+###### git push
 
 
 ## Control_Parental
