@@ -6,6 +6,9 @@
 ###### git remote add origin https://github.com/tu-usuario/tu-repositorio.git
 #### Agregar archivos al área de preparación
 ###### git add 
+#### Hacer un commit 
+###### git commit -m "Mensaje descriptivo del cambio"
+
 
 ## Control_Parental
 ### Control parental desde una api
