@@ -1,3 +1,7 @@
+## Como subir un archivo desde terminal
+### Comandos:
+
+
 ## Control_Parental
 ### Control parental desde una api
 
