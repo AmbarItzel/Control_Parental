@@ -1,4 +1,4 @@
-## Como subir un archivo desde terminal
+### Como subir un archivo desde terminal
 ### Comandos:
 #### Inicializar un repositorio Git (si aún no lo hiciste)
 ###### git init
