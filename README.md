@@ -1,5 +1,5 @@
 ### Como subir un archivo desde terminal
-### Comandos:
+#### Comandos:
 #### Inicializar un repositorio Git (si aún no lo hiciste)
 ###### git init
 ### Configurar el repositorio remoto
